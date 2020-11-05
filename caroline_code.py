@@ -9,3 +9,4 @@ def my_square_root(val):
 if __name__ == '__main__':
     print("This is Caroline's first piece of code on her own repository!")
 print ('Lets try this again')
+print('Yay it worked!')
